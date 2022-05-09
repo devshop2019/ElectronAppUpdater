@@ -1,0 +1,4 @@
+- snippet: elec-n 
+Create window Electron.
+
+- npm install --save electron
